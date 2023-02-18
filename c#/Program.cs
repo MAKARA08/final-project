@@ -1,5 +1,7 @@
 ﻿Console.WriteLine("Введите количество элементов в массиве:");
+
 String[]array = new String [Convert.ToInt32(Console.ReadLine())];
+
 int counter = 0;
 int j = 0;
 
@@ -10,8 +12,10 @@ for (int i = 0; i < array.Length; i++) {
         counter++;
     }
 }
+
 Console.WriteLine("Создан массив:");
 Console.WriteLine("[{0}]", string.Join(", ", array));
+
 String[]mainArray = new String [counter];
 
 for (int i = 0; i < array.Length; i++) {
