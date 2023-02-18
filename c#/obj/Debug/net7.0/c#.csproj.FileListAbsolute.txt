@@ -1,0 +1,15 @@
+/Users/anastasiamakarevic/Desktop/final-project/c#/bin/Debug/net7.0/c#
+/Users/anastasiamakarevic/Desktop/final-project/c#/bin/Debug/net7.0/c#.deps.json
+/Users/anastasiamakarevic/Desktop/final-project/c#/bin/Debug/net7.0/c#.runtimeconfig.json
+/Users/anastasiamakarevic/Desktop/final-project/c#/bin/Debug/net7.0/c#.dll
+/Users/anastasiamakarevic/Desktop/final-project/c#/bin/Debug/net7.0/c#.pdb
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/c#.csproj.AssemblyReference.cache
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/c#.AssemblyInfoInputs.cache
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/c#.AssemblyInfo.cs
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/c#.csproj.CoreCompileInputs.cache
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/c#.dll
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/refint/c#.dll
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/c#.pdb
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/c#.genruntimeconfig.cache
+/Users/anastasiamakarevic/Desktop/final-project/c#/obj/Debug/net7.0/ref/c#.dll
